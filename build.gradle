@@ -46,7 +46,7 @@ jar {
                 'Automatic-Module-Name': 'org.scenicview.scenicview'
         )
     }
-    archiveName = 'scenicview.jar'
+    archiveFileName  = 'scenicview.jar'
 }
 
 run {
